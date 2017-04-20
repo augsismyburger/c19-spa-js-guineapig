@@ -1,0 +1,22 @@
+.blue {
+    color: blue;
+}
+.large {
+    font-size: 3em;
+}
+.add-border {
+    border: 3px dotted hotpink;
+}
+.rounded {
+    border-radius: 25%;
+}
+.bold {
+    font-weight: bold;
+}
+.bold-em {
+    font-weight: bold;
+    font-style: italic;
+}
+.display-block {
+    display: block;
+}
